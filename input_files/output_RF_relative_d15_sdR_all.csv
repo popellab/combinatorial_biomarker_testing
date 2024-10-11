@@ -1,0 +1,22 @@
+index,name
+0,Tregs in central comp.
+2,Tcyt in central comp.
+4,Th/Tcyt in central comp.
+6,Th+Tcyt in central comp.
+7,T cells in central comp.
+10,Tcyt/T cells in central comp.
+16,Carrying capacity
+17,Angiogenic factor
+20,mAPC
+22,TGFb
+25,NO
+26,ArgI
+27,CCL2
+33,Treg/Tcyt
+41,Treg/T cells
+42,Mac
+71,Tumor diameter
+78,Treg/Tcyt in LNs
+80,Treg/Th in LNs
+86,Treg/T cells in LNs
+87,APCs in LNs

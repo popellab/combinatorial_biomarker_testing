@@ -1,0 +1,17 @@
+index,name
+0,Tregs in central comp.
+3,Treg/Tcyt in central comp.
+8,(Th+Tcyt)/T cells in central comp.
+17,Angiogenic factor
+19,immature APC
+20,mAPC
+27,CCL2
+43,M2/M1 Mac ratio
+44,M1/(M1+M2) Mac
+45,M2/(M1+M2) Mac
+52,MDSC fraction
+62,Exhausted Tcyt fraction
+64,Immune cell fraction
+74,Tregs in LNs
+85,Tcyt/T cells in LNs
+87,APCs in LNs

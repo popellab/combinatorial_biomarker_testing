@@ -1,0 +1,13 @@
+index,name
+0,Tregs in central comp.
+1,Th in central comp.
+2,Tcyt in central comp.
+3,Treg/Tcyt in central comp.
+5,Treg/Th in central comp.
+6,Th+Tcyt in central comp.
+8,(Th+Tcyt)/T cells in central comp.
+9,Th/T cells in central comp.
+10,Tcyt/T cells in central comp.
+11,Treg/T cells in central comp.
+12,Tcyt diversity in central comp.
+13,Tcyt evenness in central comp.

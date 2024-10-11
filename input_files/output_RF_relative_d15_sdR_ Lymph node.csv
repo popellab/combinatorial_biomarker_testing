@@ -1,0 +1,12 @@
+index,name
+0,Tregs in LNs
+1,IL2
+2,Th in LNs
+4,Treg/Tcyt in LNs
+6,Treg/Th in LNs
+9,(Th+Tcyt)/T cells in LNs
+10,Th/T cells in LNs
+12,Treg/T cells in LNs
+13,APCs in LNs
+14,Tcyt diversity in LNs
+15,Tcyt evenness in LNs

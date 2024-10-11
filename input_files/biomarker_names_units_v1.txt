@@ -1,0 +1,119 @@
+Name, Unit, Source
+Naive CD4+ T cells in central comp., cells/ml, Blood
+Naive CD8+ T cells in central comp., cells/ml, Blood
+Tregs in central comp., cells/ml, Blood
+Th in central comp., cells/ml, Blood
+Antibody in central comp., nM, Blood
+Naive CD4+ T cells in periphery, NA, NA
+Naive CD8+ T cells in periphery, NA, NA
+Tregs in periphery, NA, NA
+Th in periphery, NA, NA
+Antibody in periphery, nM, NA
+Tcyt in central comp., cells/ml, Blood
+Treg/Tcyt in central comp., NA, Blood
+Th/Tcyt in central comp., NA, Blood
+Treg/Th in central comp., NA, Blood
+Th+Tcyt in central comp., cells/ml, Blood
+T cells in central comp., cells/ml, Blood
+(Th+Tcyt)/T cells in central comp., NA, Blood
+Th/T cells in central comp., NA, Blood
+Tcyt/T cells in central comp., NA, Blood
+Treg/T cells in central comp., NA, Blood
+Tcyt richness in central comp., NA, Blood
+Tcyt diversity in central comp., NA, Blood
+Tcyt evenness in central comp., NA, Blood
+Dead cancer cell, cells/ml, Tumor
+Exhausted Tcyt, cells/ml, Tumor
+Exhausted Th, cells/ml, Tumor
+Carrying capacity, NA, Tumor
+Angiogenic factor, pg/ml, Tumor
+Treg, cells/ml, Tumor
+immature APC, cells/ml, Tumor
+mAPC, cells/ml, Tumor
+APC maturation cytokine, M, Tumor
+Self Ag, M, Tumor
+anti-PD-1 antibody, nM, Tumor
+Th, cells/ml, Tumor
+TGFb, nM, Tumor
+IFNg, nM, Tumor
+MDSC, cells/ml, Tumor
+NO, nM, Tumor
+ArgI, mU, Tumor
+CCL2, nM, Tumor
+M1 Mac, cells/ml, Tumor
+M2 Mac, cells/ml, Tumor
+IL12, nM, Tumor
+IL10, nM, Tumor
+Tcyt, cells/ml, Tumor
+Ag, M, Tumor
+Cancer cells, cells/ml, Tumor
+Treg/Tcyt, NA, Tumor
+Th/Tcyt, NA, Tumor
+Treg/Th, NA, Tumor
+Th+Tcyt, cells/ml, Tumor
+T cells, cells/ml, Tumor
+(Th+Tcyt)/T cells, NA, Tumor
+Th/T cells, NA, Tumor
+Tcyt/T cells, NA, Tumor
+Treg/T cells, NA, Tumor
+Mac, cells/ml, Tumor
+M2/M1 Mac ratio, NA, Tumor
+M1/(M1+M2) Mac, NA, Tumor
+M2/(M1+M2) Mac, NA, Tumor
+Total number of cells in tumor, NA, Tumor
+TIL fraction, NA, Tumor
+Immune supp. cells, cells/ml, Tumor
+Immune act. cells, cells/ml, Tumor
+Immune supp./act. cells, NA, Tumor
+Immune supp. cell fraction, NA, Tumor
+Immune act. cell fraction, NA, Tumor
+MDSC fraction, NA, Tumor
+M1 Mac fraction, NA, Tumor
+M2 Mac fraction, NA, Tumor
+Mac fraction, NA, Tumor
+Treg fraction, NA, Tumor
+Tcyt fraction, NA, Tumor
+Th fraction, NA, Tumor
+Tcyt+Th cell fraction, NA, Tumor
+mAPC fraction, NA, Tumor
+APC fraction, NA, Tumor
+Exhausted Tcyt fraction, NA, Tumor
+Exhausted Th fraction, NA, Tumor
+Immune cell fraction, NA, Tumor
+Cancer clone richness, NA, Tumor
+Tcyt richness, NA, Tumor
+Cancer clone diversity, NA, Tumor
+Tcyt diversity, NA, Tumor
+Cancer clones evenness, NA, Tumor
+Tcyt evenness, NA, Tumor
+neo-Ag diversity, NA, Tumor
+neo-Ag evenness, NA, Tumor
+Tumor diameter, cm, Tumor
+Neo-Ag specific T cell clones, NA, Tumor
+PDL1 in tumor, molecule/micrometer^2, Tumor
+PDL1 on APCs, molecule/micrometer^2, NA
+PDL1 on T cells in tumor, molecule/micrometer^2, Tumor
+PDL1 on T cells in LNs, molecule/micrometer^2, NA
+Naive CD4+ T cells in LNs, cells/mm^3, Lymph node
+Act. CD4+ T cells in LNs, cells/mm^3, Lymph node
+Tregs in LNs, cells/mm^3, Lymph node
+IL2, nM, Lymph node
+Naive CD8+ T cells in LNs, cells/mm^3, Lymph node
+Th in LNs, cells/mm^3, Lymph node
+Act. Th in LNs, cells/mm^3, Lymph node
+Antibody in LNs, nM, Lymph node
+Tcyt in LNs, cells/mm^3, Lymph node
+Treg/Tcyt in LNs, NA, Lymph node
+Th/Tcyt in LNs, NA, Lymph node
+Treg/Th in LNs, NA, Lymph node
+Th+Tcyt in LNs, cells/mm^3, Lymph node
+T cells in LNs, cells/mm^3, Lymph node
+(Th+Tcyt)/T cells in LNs, NA, Lymph node
+Th/T cells in LNs, NA, Lymph node
+Tcyt/T cells in LNs, NA, Lymph node
+Treg/T cells in LNs, NA, Lymph node
+APCs in LNs, cells/mm^3, Lymph node
+Tcyt richness in LNs, NA, Lymph node
+Tcyt diversity in LNs, NA, Lymph node
+Tcyt evenness in LNs, NA, Lymph node
+Response, NA, NA

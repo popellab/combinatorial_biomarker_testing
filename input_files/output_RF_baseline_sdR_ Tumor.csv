@@ -1,0 +1,23 @@
+index,name
+0,Exhausted Tcyt
+5,immature APC
+6,mAPC
+10,MDSC
+11,NO
+12,ArgI
+19,Treg/Tcyt
+21,Treg/Th
+27,Treg/T cells
+29,M2/M1 Mac ratio
+30,M1/(M1+M2) Mac
+31,M2/(M1+M2) Mac
+35,Immune supp./act. cells
+36,Immune supp. cell fraction
+37,Immune act. cell fraction
+38,MDSC fraction
+42,Treg fraction
+48,Exhausted Tcyt fraction
+49,Exhausted Th fraction
+52,Cancer clone diversity
+53,Tcyt diversity
+57,Tumor diameter
