@@ -49,5 +49,7 @@ Note: Please install the following R packages before running the code: "ggplot2"
 - copy the scripts from folder Plotting/compare_timepts, into the output subfolders (baseline, d15, d30, relative_d15, relative_d30)
 - execute the R script plotall_timepts.R
 
-
+Reference: Virtual patient analysis identifies strategies to improve the performance of predictive biomarkers for PD-1 blockade
+Theinmozhi Arulraj, Hanwen Wang, Atul Deshpande, Ravi Varadhan, Leisha A. Emens, Elizabeth M. Jaffee, Elana J. Fertig, Cesar A. Santa-Maria, Aleksander S. Popel
+bioRxiv 2024.05.21.595235; doi: https://doi.org/10.1101/2024.05.21.595235
 
